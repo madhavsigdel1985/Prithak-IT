@@ -8,9 +8,7 @@ GO
 ALTER Procedure [dbo].[SP_Book_Price](@Author Varchar(50))
 as 
 
-  --Madhav Sigdel
---514 Applewood Dr
---League City, Texas  
+
   
 Begin
 select * from(
